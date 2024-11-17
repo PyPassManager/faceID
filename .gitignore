@@ -1,0 +1,34 @@
+# Dossier contenant les visages connus
+known_faces/
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnements virtuels
+venv/
+env/
+.env
+
+# Fichiers de configuration IDE
+.vscode/
+.idea/
+
+# Fichiers de logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+
+# Fichiers de sauvegarde
+*.bak
+
+# Fichiers de cache numpy
+*.npy
+
+# Fichiers image
+*.jpg
+*.jpeg
+*.png
+*.gif
